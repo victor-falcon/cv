@@ -11,8 +11,8 @@
       "title": "PHP and Go Senior Developer",
       "description": "Desde siempre me ha gustado la programación. Empecé desde pequeño a trabajar con PHP. La mayoría del tiempo he trabajado en backend aunque me defiendo con ambas. Considero importante que me llame la atención el proyecto tanto técnicamente como en la parte de negocio.",
       "avatar": {
-        "alt": "New Project.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e9c5065b-067f-43a2-971d-308244112356_new-project.png"
+        "alt": "square.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/60a1bd57-fda1-412f-8864-890658b71774_square.png"
       },
       "location": {
         "notes": "Madrid, Spain"
@@ -20,16 +20,58 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/victor-falcon/"
       },
       {
         "type": "twitter",
-        "URL": "http://twitter.com/victoor"
+        "URL": "https://twitter.com/victoor"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
       }
     ]
   },
