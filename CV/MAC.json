@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,13 +9,16 @@
       "name": "Víctor",
       "surnames": "Falcón  Ruíz",
       "title": "PHP and Go Senior Developer",
-      "description": "Desde siempre me ha gustado la programación. Empecé desde pequeño a trabajar con PHP. La mayoría del tiempo he trabajado en backend aunque me defiendo con ambas. Considero importante que me llame la atención el proyecto tanto técnicamente como en la parte de negocio.",
+      "description": "",
       "avatar": {
         "alt": "square.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/60a1bd57-fda1-412f-8864-890658b71774_square.png"
       },
       "location": {
-        "notes": "Madrid, Spain"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -36,10 +39,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -51,13 +56,13 @@
       },
       {
         "skill": {
-          "name": "Laravel",
+          "name": "Symfony",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Symfony",
+          "name": "Laravel",
           "type": "technology"
         }
       },
@@ -83,6 +88,14 @@
           "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "openToOffers"
   }
 }
