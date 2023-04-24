@@ -9,7 +9,7 @@
       "name": "Víctor",
       "surnames": "Falcón  Ruíz",
       "title": "PHP and Go Senior Developer",
-      "description": "",
+      "description": "Desde siempre me ha gustado la programación. Empecé desde pequeño a trabajar con PHP. La mayoría del tiempo he trabajado en backend aunque me defiendo con ambas. Considero importante que me llame la atención el proyecto tanto técnicamente como en la parte de negocio.",
       "avatar": {
         "alt": "square.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/60a1bd57-fda1-412f-8864-890658b71774_square.png"
@@ -90,6 +90,38 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Drupal",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
