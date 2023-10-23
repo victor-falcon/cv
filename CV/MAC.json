@@ -11,17 +11,21 @@
       "title": "PHP and Go Senior Developer",
       "description": "Desde siempre me ha gustado la programación. Empecé desde pequeño a trabajar con PHP. La mayoría del tiempo he trabajado en backend aunque me defiendo con ambas. Considero importante que me llame la atención el proyecto tanto técnicamente como en la parte de negocio.",
       "avatar": {
-        "alt": "square.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/60a1bd57-fda1-412f-8864-890658b71774_square.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/12/60a1bd57-fda1-412f-8864-890658b71774_square.png",
+        "alt": "square.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/victor-falcon/"
@@ -29,40 +33,24 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/victoor"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -77,6 +65,44 @@
           "name": "JavaScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -84,8 +110,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/"
+          "URL": "https://www.linkedin.com/in/victor-falcon-ruiz/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/victor-falcon/",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/victoor",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "victoor89@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "679139035",
+          "countryCode": "+34"
         }
       ]
     },
@@ -128,6 +171,31 @@
         "Full-stack Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Symfony",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Una empresa no demasiado grande (me gustan las startups), con un proyecto con futuro de crecer y llegar a muchos usuarios y cierta capacidad de decisión."
   }
 }
