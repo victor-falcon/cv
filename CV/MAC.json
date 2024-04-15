@@ -48,7 +48,7 @@
         },
         "roles": [
           {
-            "name": "🏠 Senior PHPDeveloper",
+            "name": "🏠 Lead PHP Developer",
             "startDate": "2023-10-01",
             "challenges": [
               {
@@ -306,12 +306,6 @@
       ],
       "contactMails": [
         "victoor89@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "679139035",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
