@@ -232,7 +232,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Docker",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -250,19 +250,19 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Symfony",
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -354,7 +354,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Docker",
+        "name": "AWS",
         "type": "technology"
       },
       {
@@ -362,15 +362,15 @@
         "type": "technology"
       },
       {
-        "name": "Laravel",
-        "type": "technology"
-      },
-      {
         "name": "PHP",
         "type": "technology"
       },
       {
-        "name": "Symfony",
+        "name": "Ruby",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
