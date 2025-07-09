@@ -8,8 +8,8 @@
     "profile": {
       "name": "Víctor",
       "surnames": "Falcón Ruíz",
-      "title": "Writing pizzas 🍕 and eating code 👨‍💻 - Senior developer (PHP / Go / TypeScript)",
-      "description": "Writing pizzas 🍕 and eating code 👨‍💻 - Senior developer",
+      "title": "Writing Pizzas 🍕 and Eating Code 👨‍💻 - Senior Developer (PHP / Go / TypeScript)",
+      "description": "Writing pizzas 🍕  and eating code 👨‍💻  - Senior Developer",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/e66879d2-f80e-49cc-bd3b-71c80f1159d6_linkedin-photo-1356.linkedin-photo-1356",
         "alt": "23/10/23/e66879d2-f80e-49cc-bd3b-71c80f1159d6_linkedin-photo-1356.linkedin-photo-1356"
@@ -40,19 +40,27 @@
     "jobs": [
       {
         "organization": {
-          "name": "AltoVita",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/c7103c04-d378-48df-876c-ce0b643524f6_linkedin-photo-1356.linkedin-photo-1356",
-            "alt": "23/10/23/c7103c04-d378-48df-876c-ce0b643524f6_linkedin-photo-1356.linkedin-photo-1356"
-          }
+          "name": "Factorial"
         },
         "roles": [
           {
-            "name": "🏠 Lead PHP Developer",
+            "name": "Full Stack Senior Developer",
+            "startDate": "2024-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AltoVita"
+        },
+        "roles": [
+          {
+            "name": "🏠 Senior PHP Developer",
             "startDate": "2023-10-01",
+            "finishDate": "2024-05-01",
             "challenges": [
               {
-                "description": "The World’s Largest Inventory of Corporate Accommodation. \n\nAll of our accommodation are vetted and go through a meticulously 4-Tier Quality Control standard ensuring that we are providing your business with compliant rentals and ensuring your employees safety during their business trip or relocation."
+                "description": "The World’s Largest Inventory of Corporate Accommodation.   All of our accommodation are vetted and go through a meticulously 4-Tier Quality Control standard ensuring that we are providing your business with compliant rentals and ensuring your employees safety during their business trip or relocation."
               }
             ]
           }
@@ -60,17 +68,13 @@
       },
       {
         "organization": {
-          "name": "Spryker",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/cc6ab24a-e204-4696-aa7d-b73bae336ce2_linkedin-photo-1356.linkedin-photo-1356",
-            "alt": "23/10/23/cc6ab24a-e204-4696-aa7d-b73bae336ce2_linkedin-photo-1356.linkedin-photo-1356"
-          }
+          "name": "Spryker"
         },
         "roles": [
           {
-            "name": "🦌 Senior PHP Developer",
+            "name": "🦌  Senior PHP Developer",
             "startDate": "2022-11-01",
-            "finishDate": "2023-10-31",
+            "finishDate": "2023-10-01",
             "challenges": [
               {
                 "description": "Spryker is the leading composable commerce platform for B2B, Enterprise Marketplaces, D2C, and Thing Commerce. Our easy-to-use, headless, API-first model is designed specifically for sophisticated transactional businesses. It offers a best of breed approach that provides businesses the flexibility to adapt, scale, and quickly go to market while facilitating faster time-to-value throughout their digital transformation journey."
@@ -81,20 +85,16 @@
       },
       {
         "organization": {
-          "name": "Monse",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/dca79f14-df45-4e0d-953c-607d43754280_linkedin-photo-1356.linkedin-photo-1356",
-            "alt": "23/10/23/dca79f14-df45-4e0d-953c-607d43754280_linkedin-photo-1356.linkedin-photo-1356"
-          }
+          "name": "Monse"
         },
         "roles": [
           {
             "name": "Full-stack Developer",
             "startDate": "2021-10-01",
-            "finishDate": "2023-10-31",
+            "finishDate": "2023-10-01",
             "challenges": [
               {
-                "description": "Platform where you can connect your banks and get a list of transfers as well as several interesting analytics.\n\nIn addition, there is an AI to automatically categorize users' expenses and income."
+                "description": "Platform where you can connect your banks and get a list of transfers as well as several interesting analytics.  In addition, there is an AI to automatically categorize users' expenses and income."
               }
             ]
           }
@@ -102,20 +102,16 @@
       },
       {
         "organization": {
-          "name": "Wallbox Chargers",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/f2b459e4-a994-4133-988c-9ea1be323ddb_linkedin-photo-1356.linkedin-photo-1356",
-            "alt": "23/10/23/f2b459e4-a994-4133-988c-9ea1be323ddb_linkedin-photo-1356.linkedin-photo-1356"
-          }
+          "name": "Wallbox Chargers"
         },
         "roles": [
           {
             "name": "⚡ High Voltage Senior Developer (PHP and Go) - %100 Remote",
             "startDate": "2019-03-01",
-            "finishDate": "2022-11-30",
+            "finishDate": "2022-11-01",
             "challenges": [
               {
-                "description": "Wallbox is a global company, dedicated to changing the way the world uses energy in the electric vehicle industry. Wallbox creates smart charging systems that combine innovative technology with outstanding design and manage the communication between vehicle, the grid, and the charger.\n\nDuring my time at Wallbox, as a team, we improved the platform from an unstable, untested and a difficult to deploy platform to a secure and stable platform on which 5-6 deployments are made per day. We also split a monolith into small microservices in Go."
+                "description": "Wallbox is a global company, dedicated to changing the way the world uses energy in the electric vehicle industry. Wallbox creates smart charging systems that combine innovative technology with outstanding design and manage the communication between vehicle, the grid, and the charger.  During my time at Wallbox, as a team, we improved the platform from an unstable, untested and a difficult to deploy platform to a secure and stable platform on which 5-6 deployments are made per day. We also split a monolith into small microservices in Go."
               }
             ]
           }
@@ -123,17 +119,13 @@
       },
       {
         "organization": {
-          "name": "Chicfy",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/5dd4c94c-afe9-4b21-af29-07eff02519e8_linkedin-photo-1356.linkedin-photo-1356",
-            "alt": "23/10/23/5dd4c94c-afe9-4b21-af29-07eff02519e8_linkedin-photo-1356.linkedin-photo-1356"
-          }
+          "name": "Chicfy"
         },
         "roles": [
           {
             "name": "💅 Chic Senior Developer (PHP)",
             "startDate": "2015-11-01",
-            "finishDate": "2018-05-31",
+            "finishDate": "2018-05-01",
             "challenges": [
               {
                 "description": "Application for buying and selling second hand clothes with more than 5 million users in Spain and Latin America."
@@ -150,7 +142,7 @@
           {
             "name": "💪 Bench Press Developer (PHP)",
             "startDate": "2012-10-01",
-            "finishDate": "2018-04-30",
+            "finishDate": "2018-04-01",
             "challenges": [
               {
                 "description": "A Laravel application that helps thousands of users achieve their fitness goals thanks to an automatically generated personalized diet and workout every week."
@@ -161,17 +153,13 @@
       },
       {
         "organization": {
-          "name": "Clever Consulting",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/2d5548a6-327c-4a89-98d7-fb0636d9f55e_linkedin-photo-1356.linkedin-photo-1356",
-            "alt": "23/10/23/2d5548a6-327c-4a89-98d7-fb0636d9f55e_linkedin-photo-1356.linkedin-photo-1356"
-          }
+          "name": "Clever Consulting"
         },
         "roles": [
           {
             "name": "🐘 Super Saiyan Developer (PHP, Ruby)",
             "startDate": "2012-02-01",
-            "finishDate": "2015-11-30",
+            "finishDate": "2015-11-01",
             "challenges": [
               {
                 "description": "We develop simple sites using WordPress and some custom applications in Ruby on Rails to solve common problems that our customer has."
@@ -188,7 +176,7 @@
           {
             "name": "🏨 Hotel PHP Developer",
             "startDate": "2011-07-01",
-            "finishDate": "2012-02-28",
+            "finishDate": "2012-02-01",
             "challenges": [
               {
                 "description": "Programación de Aplicaciones Webs. PHP, Oracle, MySQL, etc"
@@ -205,7 +193,7 @@
           {
             "name": "🏨 Single bed PHP developer",
             "startDate": "2011-04-01",
-            "finishDate": "2011-06-30",
+            "finishDate": "2011-06-01",
             "challenges": [
               {
                 "description": "We keep and update and internal application to manage employees, phones, and some issues. This tool was developed with PHP and a custom framework self-made."
@@ -232,7 +220,55 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -244,7 +280,49 @@
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Joomla",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
           "type": "technology"
         }
       },
@@ -256,7 +334,55 @@
       },
       {
         "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
           "type": "technology"
         }
       },
@@ -265,6 +391,36 @@
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior",
+        "startDate": "2008-01-01",
+        "institution": {
+          "name": "IES VIlla de Aguimes"
+        },
+        "finishDate": "2010-01-01"
       }
     ],
     "softSkills": [
