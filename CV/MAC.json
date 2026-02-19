@@ -506,7 +506,8 @@
     "status": "openToOffers",
     "requirements": {
       "contractTypes": [
-        "permanent"
+        "permanent",
+        "freelance"
       ]
     }
   },
