@@ -8,8 +8,8 @@
     "profile": {
       "name": "Víctor",
       "surnames": "Falcón Ruíz",
-      "title": "Writing Pizzas 🍕 and Eating Code 👨‍💻 - Senior Developer (PHP / Go / TypeScript)",
-      "description": "Writing pizzas 🍕  and eating code 👨‍💻  - Senior Developer",
+      "title": "Senior Backend Developer (PHP / Laravel / Go)",
+      "description": "Backend developer with 15 years of PHP behind me, Laravel since 2012. I work on the parts of a system that live outside the controller: queues, workers, events, Redis and the production problems they cause at volume.\n\nAuthor of Whisper Money, an open source personal finance app in Laravel with 1.1k stars on GitHub, and previously MetricsWave, an analytics product handling more than 10 million events a month.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/23/e66879d2-f80e-49cc-bd3b-71c80f1159d6_linkedin-photo-1356.linkedin-photo-1356",
         "alt": "23/10/23/e66879d2-f80e-49cc-bd3b-71c80f1159d6_linkedin-photo-1356.linkedin-photo-1356"
